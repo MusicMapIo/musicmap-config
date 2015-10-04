@@ -1,0 +1,19 @@
+{
+  "name": "musicmap-config",
+  "version": "1.0.0",
+  "description": "A concrete musicmap config loader",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:MusicMapIo/musicmap-config.git"
+  },
+  "author": "MusicMap",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MusicMapIo/musicmap-config/issues"
+  },
+  "homepage": "https://github.com/MusicMapIo/musicmap-config",
+  "dependencies": {
+    "json-config-loader": "^1.0.0"
+  }
+}
